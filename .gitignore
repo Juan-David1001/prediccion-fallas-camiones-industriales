@@ -1,0 +1,22 @@
+# Datos y artefactos
+data/
+models/
+reports/*.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Entorno
+.env
+.env.*
+*.key
+*.pem
+
+# Sistema
+.DS_Store
+Thumbs.db
